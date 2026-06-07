@@ -1,73 +1,50 @@
-<h1 align="center" style="color: #8A2BE2;">👋 Welcome to Rathod's GitHub</h1>
-<h3 align="center" style="color: #DA70D6;">🚀 Full-Stack Developer in Progress | Always Building & Learning</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6a11cb,100:2575fc&text=Rathod-xD&fontSize=55&fontAlignY=35&desc=Discord%20Bots%20•%20Infrastructure%20•%20Cloud&descAlignY=55" />
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rathod-xd" alt="Profile Views" style="margin-right: 10px;">
-  <img src="https://img.shields.io/github/followers/rathod-xd?color=8A2BE2&logo=github&style=flat-square" alt="GitHub Followers" style="margin-right: 10px;">
-  <img src="https://img.shields.io/github/stars/rathod-xd?color=DA70D6&logo=github&style=flat-square" alt="GitHub Stars">
-</p>
+## About Me
 
----
+I spend most of my time building Discord bots, managing infrastructure, and working with cloud services.
 
-<h2 align="center" style="color: #8A2BE2;">💡 About Me</h2>
-<p align="center" style="color: #ffffff;">
-  🌱 Currently focusing on <strong>Full-Stack Web Development</strong>.<br>
-  💻 Learning and building projects with <strong>JavaScript, React, Node.js, Express</strong> and <strong>MongoDB</strong>.<br>
-  🎯 Exploring backend APIs, frontend frameworks, and deployment workflows.<br>
-  🚀 Goal: to grow into a versatile developer who can build end-to-end applications.
-</p>
+Currently learning advanced C++ while exploring lower-level concepts, object-oriented programming, and system design.
 
----
+I am a Co-Founder of HeavenCloud, where I work with VPS, VDS, dedicated servers, virtualization, networking, Linux administration, deployment workflows, DDoS protection, and performance optimization.
 
-<h2 align="center" style="color: #8A2BE2;">🏆 Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rathod-xd&theme=gruvbox&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies">
-</p>
+Most of my projects revolve around automation, backend systems, APIs, hosting infrastructure, and developer tooling.
 
----
+## Tech Stack
 
-<h2 align="center" style="color: #8A2BE2;">⚙️ Languages & Tools</h2>
-<p align="center">
-  <!-- Core Web Dev -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin-right: 15px;">
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50">
-</p>
+### Languages
 
----
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-<h2 align="center" style="color: #8A2BE2;">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathod-xd&show_icons=true&theme=radical&hide_border=true&title_color=8A2BE2&text_color=ffffff" alt="GitHub Stats" style="margin-bottom: 15px;">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rathod-xd&theme=radical&hide_border=true&ring=8A2BE2&fire=DA70D6" alt="GitHub Streak" style="margin-bottom: 15px;">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-xd&layout=compact&theme=radical&hide_border=true&title_color=8A2BE2&text_color=ffffff" alt="Top Languages">
-</div>
+### Infrastructure
 
----
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020.svg?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/pterodactyl-10539F.svg?style=for-the-badge)
+![KVM](https://img.shields.io/badge/KVM-1A73E8.svg?style=for-the-badge)
 
-<h2 align="center" style="color: #8A2BE2;">🚀 Featured Projects</h2>
-<p align="center" style="color: #ffffff;">
-  Projects are currently in progress as I continue learning Full-Stack Development.<br>
-  Stay tuned for real apps showcasing both frontend and backend skills!
-</p>
+### Databases
 
----
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405E.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
 
-<h2 align="center" style="color: #8A2BE2;">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://discord.gg/Cjh28kgWDq" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" style="margin-right: 15px;">
-  </a>
-  <a href="https://github.com/rathod-xd" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40">
-  </a>
-</p>
+## Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1084285203616366712?theme=dark\&bg=1a1b27\&animated=true\&idleMessage=Probably%20breaking%20something)](https://discord.com/users/1084285203616366712)
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=rathod-xd\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rathod-xd\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-xd\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=rathod-xd\&theme=tokyo-night\&hide_border=true)
